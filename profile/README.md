@@ -4,7 +4,7 @@ This organization manages [ALifeLivedFully.com](https://ALifeLivedFully.com) and
 ** Table of Contents:
 1. [Subdomains](#Subdomains)
 1. [ALifeLivedFully.com](#Alifelivedfullycom)
-1. [Links.ALifeLivedFully.com](#LinksALifeLivedFullycom
+1. [Links.ALifeLivedFully.com](#LinksALifeLivedFullycom)
 
 ## Subdomains:
 - [ALifeLivedFully.com](https://ALifeLivedFully.com)  
