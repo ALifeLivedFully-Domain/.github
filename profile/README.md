@@ -1,42 +1,37 @@
 # ALifeLivedFully
 This organization manages [ALifeLivedFully.com](https://ALifeLivedFully.com) and all of its subdomains.
 
-** Table of Contents:
-1. [Subdomains](#Subdomains)
-1. [ALifeLivedFully.com](#Alifelivedfullycom)
-1. [Links.ALifeLivedFully.com](#LinksALifeLivedFullycom)
-
-## Subdomains:
-
-
-Subdomains | Github Repo | URL
+Section | Github Repo | URL
 --- | --- | ---
-Homepage | [Homepage Repo](https://github.com/ALifeLivedFully-Domain/ALifeLivedFully.com) | [ALifeLivedFully.com](https://ALifeLivedFully.com)  
-Links | [Links Repo](https://github.com/ALifeLivedFully-Domain/Links.ALifeLivedFully.com) | [Links.ALifeLivedFully.com](https://Links.ALifeLivedFully.com)  
-Shop | [Shop Repo](https://github.com/ALifeLivedFully-Domain/Shop.ALifeLivedFully.com) | [Shop.ALifeLivedFully.com](https://Shop.ALifeLivedFully.com)
-Pay | [Pay Repo](https://github.com/ALifeLivedFully-Domain/Pay.ALifeLivedFully.com) | [Pay.ALifeLivedFully.com](https://Pay.ALifeLivedFully.com)  
-Blog | [Blog Repo](https://github.com/ALifeLivedFully-Domain/Blog.ALifeLivedFully.com) | [Blog.ALifeLivedFully.com](https://Blog.ALifeLivedFully.com) 
-Portfolio | [Portfolio Repo](https://github.com/ALifeLivedFully-Domain/Portfolio.ALifeLivedFully.com) | [Portfolio.ALifeLivedFully.com](https://Portfolio.ALifeLivedFully.com)  
-Podcast | [Podcast Repo](https://github.com/ALifeLivedFully-Domain/Podcast.ALifeLivedFully.com) | [Podcast.ALifeLivedFully.com](https://Podcast.ALifeLivedFully.com)  
-Minecraft | [Minecraft Repo](https://github.com/ALifeLivedFully-Domain/Minecraft.ALifeLivedFully.com) |[Minecraft.ALifeLivedFully.com](https://Minecraft.ALifeLivedFully.com)  
+[Homepage](#alifelivedfullycom) | [Homepage Repo](https://github.com/ALifeLivedFully-Domain/ALifeLivedFully.com) | [ALifeLivedFully.com](https://ALifeLivedFully.com)  
+[Blog](#Blogalifelivedfullycom) | [Blog Repo](https://github.com/ALifeLivedFully-Domain/Blog.ALifeLivedFully.com) | [Blog.ALifeLivedFully.com](https://Blog.ALifeLivedFully.com) 
+[Links](#Linksalifelivedfullycom) | [Links Repo](https://github.com/ALifeLivedFully-Domain/Links.ALifeLivedFully.com) | [Links.ALifeLivedFully.com](https://Links.ALifeLivedFully.com)  
+[Minecraft](#Minecraftalifelivedfullycom) | [Minecraft Repo](https://github.com/ALifeLivedFully-Domain/Minecraft.ALifeLivedFully.com) |[Minecraft.ALifeLivedFully.com](https://Minecraft.ALifeLivedFully.com)  
+[Pay](#Payalifelivedfullycom) | [Pay Repo](https://github.com/ALifeLivedFully-Domain/Pay.ALifeLivedFully.com) | [Pay.ALifeLivedFully.com](https://Pay.ALifeLivedFully.com)  
+[Podcast](#Podcastalifelivedfullycom) | [Podcast Repo](https://github.com/ALifeLivedFully-Domain/Podcast.ALifeLivedFully.com) | [Podcast.ALifeLivedFully.com](https://Podcast.ALifeLivedFully.com)  
+[Portfolio](#Portfolioalifelivedfullycom) | [Portfolio Repo](https://github.com/ALifeLivedFully-Domain/Portfolio.ALifeLivedFully.com) | [Portfolio.ALifeLivedFully.com](https://Portfolio.ALifeLivedFully.com)  
+[Shop](#Shopalifelivedfullycom) | [Shop Repo](https://github.com/ALifeLivedFully-Domain/Shop.ALifeLivedFully.com) | [Shop.ALifeLivedFully.com](https://Shop.ALifeLivedFully.com)
 
 ## ALifeLivedFully.com  
 all about ALifeLivedFully.com, the primary domain.
 
+## Blog.ALifeLivedFully.com  
+all about Blog.ALifeLivedFully.com, a simple blog website.
+
 ## Links.ALifeLivedFully.com  
-all about Links.ALifeLivedFully.com, a "link in bio" style website.
+all about Links.ALifeLivedFully.com, a simple "Link in bio" website.
+
+## Minecraft.ALifeLivedFully.com  
+all about Minecraft.ALifeLivedFully.com, a simple Minecraft website.
+
+## Pay.ALifeLivedFully.com  
+all about Pay.ALifeLivedFully.com, a simple Payment website.
+
+## Podcast.ALifeLivedFully.com  
+all about Podcast.ALifeLivedFully.com, a simple Podcast website.
+
+## Portfolio.ALifeLivedFully.com  
+all about Portfolio.ALifeLivedFully.com, a simple Portfolio website.
 
 ## Shop.ALifeLivedFully.com  
-all about Shop.ALifeLivedFully.com, a simple reliable ecommerce website.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+all about Shop.ALifeLivedFully.com, a simple Shop website.
