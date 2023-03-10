@@ -7,14 +7,18 @@ This organization manages [ALifeLivedFully.com](https://ALifeLivedFully.com) and
 1. [Links.ALifeLivedFully.com](#LinksALifeLivedFullycom)
 
 ## Subdomains:
-- [ALifeLivedFully.com](https://ALifeLivedFully.com)  
-- [Links.ALifeLivedFully.com](https://Links.ALifeLivedFully.com)  
-- [Shop.ALifeLivedFully.com](https://Shop.ALifeLivedFully.com)  
-- [Pay.ALifeLivedFully.com](https://Pay.ALifeLivedFully.com)  
-- [Blog.ALifeLivedFully.com](https://Blog.ALifeLivedFully.com)  
-- [Portfolio.ALifeLivedFully.com](https://Portfolio.ALifeLivedFully.com)  
-- [Podcast.ALifeLivedFully.com](https://Podcast.ALifeLivedFully.com)  
-- [Minecraft.ALifeLivedFully.com](https://Minecraft.ALifeLivedFully.com)  
+
+
+Subdomains | Github Repo | URL
+--- | --- | ---
+Homepage | [Homepage Repo](https://github.com/ALifeLivedFully-Domain/ALifeLivedFully.com) | [ALifeLivedFully.com](https://ALifeLivedFully.com)  
+Links | [Links Repo](https://github.com/ALifeLivedFully-Domain/Links.ALifeLivedFully.com) | [Links.ALifeLivedFully.com](https://Links.ALifeLivedFully.com)  
+Shop | [Shop Repo](https://github.com/ALifeLivedFully-Domain/Shop.ALifeLivedFully.com) | [Shop.ALifeLivedFully.com](https://Shop.ALifeLivedFully.com)
+Pay | [Pay Repo](https://github.com/ALifeLivedFully-Domain/Pay.ALifeLivedFully.com) | [Pay.ALifeLivedFully.com](https://Pay.ALifeLivedFully.com)  
+Blog | [Blog Repo](https://github.com/ALifeLivedFully-Domain/Blog.ALifeLivedFully.com) | [Blog.ALifeLivedFully.com](https://Blog.ALifeLivedFully.com) 
+Portfolio | [Portfolio Repo](https://github.com/ALifeLivedFully-Domain/Portfolio.ALifeLivedFully.com) | [Portfolio.ALifeLivedFully.com](https://Portfolio.ALifeLivedFully.com)  
+Podcast | [Podcast Repo](https://github.com/ALifeLivedFully-Domain/Podcast.ALifeLivedFully.com) | [Podcast.ALifeLivedFully.com](https://Podcast.ALifeLivedFully.com)  
+Minecraft | [Minecraft Repo](https://github.com/ALifeLivedFully-Domain/Minecraft.ALifeLivedFully.com) |[Minecraft.ALifeLivedFully.com](https://Minecraft.ALifeLivedFully.com)  
 
 ## ALifeLivedFully.com  
 all about ALifeLivedFully.com, the primary domain.
