@@ -18,6 +18,11 @@ all about ALifeLivedFully.com, the primary domain.
 ## Blog.ALifeLivedFully.com  
 all about Blog.ALifeLivedFully.com, a simple blog website.
 
+** Notes: **  
+** Notes:  
+**Notes:**  
+**Notes:  
+
 ## Links.ALifeLivedFully.com  
 all about Links.ALifeLivedFully.com, a simple "Link in bio" website.
 
