@@ -15,11 +15,17 @@ Section | Github Repo | URL
 ## ALifeLivedFully.com  
 all about ALifeLivedFully.com, the primary domain.
 
+**Notes:**
+
 ## Blog.ALifeLivedFully.com  
 all about Blog.ALifeLivedFully.com, a simple blog website.
 
 **Notes:**  
-each blog has a string for name, a string for ipfs link, 
+1. write blog post.
+1. post blog markdown to ipfs, get hash.
+1. post hash to smart contract.
+1. smart contract constructs podcast rss feed similar to how on chain svg NFTs work
+1. make a dapp that only has the constructed rss feed
 
 ## Links.ALifeLivedFully.com  
 all about Links.ALifeLivedFully.com, a simple "Link in bio" website.
@@ -42,8 +48,21 @@ primary payment system monero, other crypto can be selected instead. also add li
 ## Podcast.ALifeLivedFully.com  
 all about Podcast.ALifeLivedFully.com, a simple Podcast website.
 
+**Notes:**
+1. record podcast episode.
+1. post recording to ipfs, get hash.
+1. post hash to smart contract.
+1. smart contract constructs podcast rss feed similar to how on chain svg NFTs work
+1. make a dapp that only has the constructed rss feed
+
 ## Portfolio.ALifeLivedFully.com  
 all about Portfolio.ALifeLivedFully.com, a simple Portfolio website.
 
+**Notes:**
+
 ## Shop.ALifeLivedFully.com  
 all about Shop.ALifeLivedFully.com, a simple Shop website.
+
+**Notes:**
+can you use the same technology used in atomic swaps to facilitate ecommerce, shipping, and proving someone recieved their package?
+seller and buyer lock up funds into an smart contract, seller includes their half of the information needed to release the funds in the package being delivered, when buyer recieves the package they have the ability to release the funds and are incentivized to do so.
