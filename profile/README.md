@@ -18,19 +18,26 @@ all about ALifeLivedFully.com, the primary domain.
 ## Blog.ALifeLivedFully.com  
 all about Blog.ALifeLivedFully.com, a simple blog website.
 
-** Notes: **  
-** Notes:  
 **Notes:**  
-**Notes:  
+each blog has a string for name, a string for ipfs link, 
 
 ## Links.ALifeLivedFully.com  
 all about Links.ALifeLivedFully.com, a simple "Link in bio" website.
 
+**Notes:**
+to make it a Dapp - string for URL, string for link name, 
+
 ## Minecraft.ALifeLivedFully.com  
 all about Minecraft.ALifeLivedFully.com, a simple Minecraft website.
 
+**Notes:**
+notes...
+
 ## Pay.ALifeLivedFully.com  
 all about Pay.ALifeLivedFully.com, a simple Payment website.
+
+**Notes:**
+primary payment system monero, other crypto can be selected instead. also add links to things like venmo, cashapp, etc.
 
 ## Podcast.ALifeLivedFully.com  
 all about Podcast.ALifeLivedFully.com, a simple Podcast website.
