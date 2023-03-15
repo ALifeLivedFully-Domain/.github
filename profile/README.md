@@ -16,6 +16,8 @@ Section | Github Repo | URL
 all about ALifeLivedFully.com, the primary domain.
 
 **Notes:**
+- Standard homepage layout(explained in a video [Here.](https://www.youtube.com/watch?v=g0db5kA4BfQ&ab_channel=TheWebsiteArchitect))
+  - include other parts of the website(shop, pay, blog, etc) built-in to the homepage
 
 ## Blog.ALifeLivedFully.com  
 all about Blog.ALifeLivedFully.com, a simple blog website.
