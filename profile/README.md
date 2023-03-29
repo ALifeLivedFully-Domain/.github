@@ -11,6 +11,7 @@ Section | Github Repo | URL
 [Podcast](#Podcastalifelivedfullycom) | [Podcast Repo](https://github.com/ALifeLivedFully-Domain/Podcast.ALifeLivedFully.com) | [Podcast.ALifeLivedFully.com](https://Podcast.ALifeLivedFully.com)  
 [Portfolio](#Portfolioalifelivedfullycom) | [Portfolio Repo](https://github.com/ALifeLivedFully-Domain/Portfolio.ALifeLivedFully.com) | [Portfolio.ALifeLivedFully.com](https://Portfolio.ALifeLivedFully.com)  
 [Shop](#Shopalifelivedfullycom) | [Shop Repo](https://github.com/ALifeLivedFully-Domain/Shop.ALifeLivedFully.com) | [Shop.ALifeLivedFully.com](https://Shop.ALifeLivedFully.com)
+[Hub](#Hubalifelivedfullycom) | [Hub Repo](https://github.com/ALifeLivedFully-Domain/Hub.ALifeLivedFully.com) | [Hub.ALifeLivedFully.com](https://Hub.ALifeLivedFully.com)
 
 ## ALifeLivedFully.com  
 all about ALifeLivedFully.com, the primary domain.
@@ -68,3 +69,9 @@ all about Shop.ALifeLivedFully.com, a simple Shop website.
 **Notes:**
 can you use the same technology used in atomic swaps to facilitate ecommerce, shipping, and proving someone recieved their package?
 seller and buyer lock up funds into an smart contract, seller includes their half of the information needed to release the funds in the package being delivered, when buyer recieves the package they have the ability to release the funds and are incentivized to do so.
+
+## Hub.ALifeLivedFully.com  
+all about Hub.ALifeLivedFully.com, a nextcloud hub instance.
+
+**Notes:**
+...
