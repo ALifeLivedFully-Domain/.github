@@ -5,6 +5,7 @@ Section | Github Repo | URL
 --- | --- | ---
 [Homepage](#alifelivedfullycom) | [Homepage Repo](https://github.com/ALifeLivedFully-Domain/ALifeLivedFully.com) | [ALifeLivedFully.com](https://ALifeLivedFully.com)  
 [Blog](#Blogalifelivedfullycom) | [Blog Repo](https://github.com/ALifeLivedFully-Domain/Blog.ALifeLivedFully.com) | [Blog.ALifeLivedFully.com](https://Blog.ALifeLivedFully.com) 
+[Dev](#Blogalifelivedfullycom) | [Dev Repo](https://github.com/ALifeLivedFully-Domain/Dev.ALifeLivedFully.com) | [Dev.ALifeLivedFully.com](https://Dev.ALifeLivedFully.com) 
 [Links](#Linksalifelivedfullycom) | [Links Repo](https://github.com/ALifeLivedFully-Domain/Links.ALifeLivedFully.com) | [Links.ALifeLivedFully.com](https://Links.ALifeLivedFully.com)  
 [Minecraft](#Minecraftalifelivedfullycom) | [Minecraft Repo](https://github.com/ALifeLivedFully-Domain/Minecraft.ALifeLivedFully.com) |[Minecraft.ALifeLivedFully.com](https://Minecraft.ALifeLivedFully.com)  
 [Pay](#Payalifelivedfullycom) | [Pay Repo](https://github.com/ALifeLivedFully-Domain/Pay.ALifeLivedFully.com) | [Pay.ALifeLivedFully.com](https://Pay.ALifeLivedFully.com)  
@@ -29,6 +30,12 @@ all about Blog.ALifeLivedFully.com, a simple blog website.
 1. post hash to smart contract.
 1. smart contract constructs podcast rss feed similar to how on chain svg NFTs work
 1. make a dapp that only has the constructed rss feed
+
+## Dev.ALifeLivedFully.com  
+all about Dev.ALifeLivedFully.com, a subdomain for mini side projects and webapp experiments.
+
+**Notes:**  
+nothing yet!
 
 ## Links.ALifeLivedFully.com  
 all about Links.ALifeLivedFully.com, a simple "Link in bio" website.
