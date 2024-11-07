@@ -5,6 +5,7 @@ Section | Github Repo | URL
 --- | --- | ---
 [Homepage](#alifelivedfullycom) | [Homepage Repo](https://github.com/ALifeLivedFully-Domain/ALifeLivedFully.com) | [ALifeLivedFully.com](https://ALifeLivedFully.com)  
 [Links](#Linksalifelivedfullycom) | [Links Repo](https://github.com/ALifeLivedFully-Domain/Links.ALifeLivedFully.com) | [Links.ALifeLivedFully.com](https://Links.ALifeLivedFully.com)  
+[Notes](#Notesalifelivedfullycom) | [Notes Repo](https://github.com/ALifeLivedFully-Domain/Notes.ALifeLivedFully.com) | [Notes.ALifeLivedFully.com](https://Notes.ALifeLivedFully.com)  
 <!-- [Pay](#Payalifelivedfullycom) | [Pay Repo](https://github.com/ALifeLivedFully-Domain/Pay.ALifeLivedFully.com) | [Pay.ALifeLivedFully.com](https://Pay.ALifeLivedFully.com)  -->
 <!-- [Shop](#Alifelivedfullycomshop) | [Shop Repo](https://github.com/ALifeLivedFully-Domain/ALifeLivedFully.com/Shop) | [ALifeLivedFully.com/Shop](https://ALifeLivedFully.com/Shop)  -->
 
@@ -17,6 +18,11 @@ A static site built using the Hugo static site generator which is primarily writ
 
 ## Links.ALifeLivedFully.com  
 all about Links.ALifeLivedFully.com, a simple "Link in bio" website.
+
+**Notes:**
+
+## Notes.ALifeLivedFully.com  
+all about Notes.ALifeLivedFully.com, a simple website created using the quartz static site generator. (Based on the Hugo SSG)
 
 **Notes:**
 
